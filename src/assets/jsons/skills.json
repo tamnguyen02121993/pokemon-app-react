@@ -1,0 +1,46 @@
+[
+  {
+    "skill": "HTML5",
+    "ionicicon": "logo-html5"
+  },
+  {
+    "skill": "CSS3",
+    "ionicicon": "logo-css3"
+  },
+  {
+    "skill": "Javascript",
+    "ionicicon": "logo-javascript"
+  },
+  {
+    "skill": "NodeJS",
+    "ionicicon": "logo-nodejs"
+  },
+  {
+    "skill": "React",
+    "ionicicon": "logo-react"
+  },
+  {
+    "skill": "Vue",
+    "ionicicon": "logo-vue"
+  },
+  {
+    "skill": "NPM",
+    "ionicicon": "logo-npm"
+  },
+  {
+    "skill": "Sass",
+    "ionicicon": "logo-sass"
+  },
+  {
+    "skill": "Docker",
+    "ionicicon": "logo-docker"
+  },
+  {
+    "skill": "Github",
+    "ionicicon": "logo-github"
+  },
+  {
+    "skill": "Bitbucket",
+    "ionicicon": "logo-bitbucket"
+  }
+]

@@ -1,0 +1,108 @@
+@use "./variables" as *;
+@use "./mixin" as *;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5rem;
+}
+
+body {
+  background-repeat: no-repeat;
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: $text-color;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #888;
+  }
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+  border: none;
+}
+
+@each $size in $iconSizes {
+  .icon-#{$size} {
+    font-size: $size;
+  }
+}
+
+#app {
+  position: relative;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 $padding36;
+
+  @include tablet {
+    max-width: 800px;
+    padding: 0 $padding24;
+  }
+
+  @include mobile {
+    max-width: 600;
+    padding: 0 $padding24;
+  }
+}
+
+.card {
+  background: $white;
+  box-shadow: $boxShadow;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: $padding36;
+
+  @include tablet {
+    padding: $padding24;
+  }
+
+  @include mobile {
+    padding: $padding24;
+  }
+}
+
+.btn-theme {
+  background-color: var(--main-color);
+  border: 1px solid var(--main-color);
+}
+
+.btn-theme:hover {
+  background-color: var(--semi-color);
+}

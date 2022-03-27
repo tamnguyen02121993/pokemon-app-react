@@ -1,0 +1,6 @@
+@use "./variables" as *;
+
+:export {
+  mainColor: $mainColor;
+  semiColor: $semiColor;
+}

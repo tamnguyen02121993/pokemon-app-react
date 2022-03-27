@@ -1,0 +1,9 @@
+@import "../../assets/scss";
+.input[type="text"] {
+  padding: 14px 24px;
+  width: 100%;
+  border-radius: 20px;
+  font-size: 1.4rem;
+  line-height: 1.4;
+  color: $text-color;
+}

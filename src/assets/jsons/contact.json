@@ -1,0 +1,22 @@
+[
+  {
+    "attribute": "Email",
+    "value": "tamnguyen02121993@gmail.com",
+    "ionicicon": "mail-outline"
+  },
+  {
+    "attribute": "Facebook",
+    "value": "https://www.facebook.com/gh.yeuemlathe/",
+    "ionicicon": "logo-facebook"
+  },
+  {
+    "attribute": "Instagram",
+    "value": "https://www.instagram.com/tam_nguyen_212/",
+    "ionicicon": "logo-instagram"
+  },
+  {
+    "attribute": "LinkedIn",
+    "value": "https://www.linkedin.com/in/tam-nguyen-25b1b4200/",
+    "ionicicon": "logo-linkedin"
+  }
+]

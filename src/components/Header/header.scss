@@ -1,0 +1,19 @@
+@import "../../assets/scss/";
+.header {
+  &__title {
+    @include flex(center, center);
+    margin: $margin-y 0;
+  }
+
+  &__link {
+    display: inline-block;
+    max-width: 600px;
+    @include tablet {
+      max-width: 450px;
+    }
+
+    @include mobile {
+      max-width: 300px;
+    }
+  }
+}

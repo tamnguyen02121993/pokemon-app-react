@@ -1,0 +1,704 @@
+{
+    "__comments": [
+        "https://digitalsynopsis.com/design/beautiful-color-ui-gradients-backgrounds/",
+        "https://digitalsynopsis.com/design/beautiful-color-gradients-backgrounds/"
+    ],
+    "data": [
+        {
+            "name": "Roseanna",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ffafbd",
+                    "pos": 0
+                },
+                {
+                    "color": "#ffc3a0",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Sexy Blue",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#2193b0",
+                    "pos": 0
+                },
+                {
+                    "color": "#6dd5ed",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Purple Love",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#cc2b5e",
+                    "pos": 0
+                },
+                {
+                    "color": "#753a88",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Piglet",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ee9ca7",
+                    "pos": 0
+                },
+                {
+                    "color": "#ffdde1",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Mauve",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#42275a",
+                    "pos": 0
+                },
+                {
+                    "color": "#734b6d",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "50 Shades of Grey",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#bdc3c7",
+                    "pos": 0
+                },
+                {
+                    "color": "#2c3e50",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "A Lost Memory",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#de6262",
+                    "pos": 0
+                },
+                {
+                    "color": "#ffb88c",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Socialive",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#06beb6",
+                    "pos": 0
+                },
+                {
+                    "color": "#48b1bf",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Cherry",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#eb3349",
+                    "pos": 0
+                },
+                {
+                    "color": "#f45c43",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Pinky",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#dd5e89",
+                    "pos": 0
+                },
+                {
+                    "color": "#f7bb97",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Lush",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#56ab2f",
+                    "pos": 0
+                },
+                {
+                    "color": "#a8e063",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Kashmir",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#614385",
+                    "pos": 0
+                },
+                {
+                    "color": "#516395",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Tranquil",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#eecda3",
+                    "pos": 0
+                },
+                {
+                    "color": "#ef629f",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Pale Wood",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#eacda3",
+                    "pos": 0
+                },
+                {
+                    "color": "#d6ae7b",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Green Beach",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#02aab0",
+                    "pos": 0
+                },
+                {
+                    "color": "#00cdac",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Sha La La",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#d66d75",
+                    "pos": 0
+                },
+                {
+                    "color": "#d66d75",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Frost",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#000428",
+                    "pos": 0
+                },
+                {
+                    "color": "#004e92",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Almost",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ddd6f3",
+                    "pos": 0
+                },
+                {
+                    "color": "#faaca8",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Virgin America",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#7b4397",
+                    "pos": 0
+                },
+                {
+                    "color": "#dc2430",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Endless River",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#43cea2",
+                    "pos": 0
+                },
+                {
+                    "color": "#185a9d",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Purple White",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ba5370",
+                    "pos": 0
+                },
+                {
+                    "color": "#f4e2d8",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Bloody Mary",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ff512f",
+                    "pos": 0
+                },
+                {
+                    "color": "#dd2476",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Can you feel the love tonight",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#4568dc",
+                    "pos": 0
+                },
+                {
+                    "color": "#b06ab3",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Bourbon",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ec6f66",
+                    "pos": 0
+                },
+                {
+                    "color": "#f3a183",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Dusk",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ffd89b",
+                    "pos": 0
+                },
+                {
+                    "color": "#19547b",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Relay",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#3a1c71",
+                    "pos": 0
+                },
+                {
+                    "color": "#d76d77",
+                    "pos": 50
+                },
+                {
+                    "color": "#ffaf7b",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Decent",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#4ca1af",
+                    "pos": 0
+                },
+                {
+                    "color": "#c4e0e5",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Sweet Morning",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ff5f6d",
+                    "pos": 0
+                },
+                {
+                    "color": "#ffc371",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Scooter",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#36d1dc",
+                    "pos": 0
+                },
+                {
+                    "color": "#5b86e5",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Celestial",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#c33764",
+                    "pos": 0
+                },
+                {
+                    "color": "#1d2671",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Royal",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#141e30",
+                    "pos": 0
+                },
+                {
+                    "color": "#243b55",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Peach",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ed4264",
+                    "pos": 0
+                },
+                {
+                    "color": "#ffedbc",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Sea Blue",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#2b5876",
+                    "pos": 0
+                },
+                {
+                    "color": "#4e4376",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Orange Coral",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#ff9966",
+                    "pos": 0
+                },
+                {
+                    "color": "#ff5e62",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Aubergine",
+            "direction": "to top",
+            "gradient": [
+                {
+                    "color": "#aa076b",
+                    "pos": 0
+                },
+                {
+                    "color": "#61045f",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Winter Neva",
+            "direction": "120deg",
+            "gradient": [
+                {
+                    "color": "#a1c4fd",
+                    "pos": 0
+                },
+                {
+                    "color": "#c2e9fb",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Heavy Rain",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#cfd9df",
+                    "pos": 0
+                },
+                {
+                    "color": "#e2ebf0",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Dusty Grass",
+            "direction": "120deg",
+            "gradient": [
+                {
+                    "color": "#d4fc79",
+                    "pos": 0
+                },
+                {
+                    "color": "#96e6a1",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Warm Flame",
+            "direction": "45deg",
+            "gradient": [
+                {
+                    "color": "#ff9a9e",
+                    "pos": 0
+                },
+                {
+                    "color": "#fad0c4",
+                    "pos": 99
+                },
+                {
+                    "color": "#fad0c4",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Night Fade",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#a18cd1",
+                    "pos": 0
+                },
+                {
+                    "color": "#fbc2eb",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Night Party",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#0250c5",
+                    "pos": 0
+                },
+                {
+                    "color": "#d43f8d",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Above The Sky",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#BCBCBC",
+                    "pos": 0
+                },
+                {
+                    "color": "#D9D9D9",
+                    "pos": 1
+                },
+                {
+                    "color": "#e0e0e0",
+                    "pos": 26
+                },
+                {
+                    "color": "#efefef",
+                    "pos": 48
+                },
+                {
+                    "color": "#d9d9d9",
+                    "pos": 75
+                },
+                {
+                    "color": "#bcbcbc",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Aqua Splash",
+            "direction": "15deg",
+            "gradient": [
+                {
+                    "color": "#13547a",
+                    "pos": 0
+                },
+                {
+                    "color": "#80d0c7",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Wide Matrix",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#fcc5e4",
+                    "pos": 0
+                },
+                {
+                    "color": "#fda34b",
+                    "pos": 15
+                },
+                {
+                    "color": "#ff7882",
+                    "pos": 35
+                },
+                {
+                    "color": "#c8699e",
+                    "pos": 52
+                },
+                {
+                    "color": "#7046aa",
+                    "pos": 72
+                },
+                {
+                    "color": "#0c1db8",
+                    "pos": 87
+                },
+                {
+                    "color": "#020f75",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Plum Bath",
+            "direction": "0deg",
+            "gradient": [
+                {
+                    "color": "#cc208e",
+                    "pos": 0
+                },
+                {
+                    "color": "#6713d2",
+                    "pos": 100
+                }
+            ]
+        },
+        {
+            "name": "Space Shift",
+            "direction": "60deg",
+            "gradient": [
+                {
+                    "color": "#3d3393",
+                    "pos": 0
+                },
+                {
+                    "color": "#2b76b9",
+                    "pos": 37
+                },
+                {
+                    "color": "#2cacd1",
+                    "pos": 65
+                },
+                {
+                    "color": "#35eb93",
+                    "pos": 100
+                }
+            ]
+        }
+    ]
+}
